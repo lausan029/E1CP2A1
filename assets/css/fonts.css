@@ -9,3 +9,45 @@
 	font-style: normal;
 	font-weight: 400;
 }
+
+h1 {
+  font-family: 'El Rio Lobo', 'Otra Fuente';
+  color: #FFAF1C;
+}
+
+.blanco {
+  color: white;
+}
+
+body {
+  margin: 0;
+  font-family: 'Arial';
+}
+
+#b3{ 
+  padding: 180px;
+  text-align: right;
+  background-image: url(../images/cuzco2.jpg);
+  padding: 1px 0px 360px;
+  background-size: 100%;
+}
+
+#b2{
+  text-align: center;
+  background-color: #4C99D5;
+  padding: 30px;
+}
+
+#b1{
+  text-align: center;
+  background-color: #C23049 ;
+  padding: 30px;
+}
+
+#b4{
+  font-family: 'El Rio Lobo';
+  font-size: 100px;
+  text-align: center;
+  padding: 0px;
+  margin: 0;
+}
